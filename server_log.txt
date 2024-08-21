@@ -1,0 +1,22 @@
+
+Thu Aug 22 00:12:15 2024
+ - Client: 127.0.0.1, Expression: 2 + 3
+, Result: 5, Time Taken: 6.154591 seconds, Data Size: 1 bytes
+Thu Aug 22 00:12:24 2024
+ - Client: 127.0.0.1, Expression: 3 - 1
+, Result: 2, Time Taken: 5.431487 seconds, Data Size: 1 bytes
+Thu Aug 22 00:12:48 2024
+ - Client: 127.0.0.1, Expression: 8 * 3
+, Result: 24, Time Taken: 20.807052 seconds, Data Size: 2 bytes
+Thu Aug 22 00:13:05 2024
+ - Client: 127.0.0.1, Expression: 8 / 4
+, Result: 2, Time Taken: 14.949316 seconds, Data Size: 1 bytes
+Thu Aug 22 00:13:23 2024
+ - Client: 127.0.0.1, Expression: 4 ^ 4
+, Result: 256, Time Taken: 11.346136 seconds, Data Size: 3 bytes
+Thu Aug 22 00:13:37 2024
+ - Client: 127.0.0.1, Expression: 4 % 2
+, Result: 0, Time Taken: 10.484389 seconds, Data Size: 1 bytes
+Thu Aug 22 00:13:48 2024
+ - Client: 127.0.0.1, Expression: 4 & 3
+, Result: Error: Invalid operator, Time Taken: 7.013497 seconds, Data Size: 23 bytes
